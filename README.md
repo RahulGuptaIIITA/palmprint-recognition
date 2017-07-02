@@ -1,4 +1,4 @@
-#Personal Verification based on Palm Prints using 2D Gabor Filter. 
+# Personal Verification based on Palm Prints using 2D Gabor Filter. 
 A Biometics Project. The primary objective of the project was personal verification on the basis of biometric features. 
 Focused on ‘Palmprint’ of a person to verify the identity and give access to the system post-verification to which the 
 security module is installed. The algorithm used in the project was validated against the benchmark database publically 
